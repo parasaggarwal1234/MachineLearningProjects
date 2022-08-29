@@ -1,0 +1,2 @@
+in this model we did data preprocessing and then convert data into standard scalling for PCA and after applying pca we apply KMeans using elbow method amd silhouttee method
+dataset , problem statement and executable file is in this folder
