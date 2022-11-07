@@ -1,0 +1,6 @@
+In this project we are using:
+dataset: 
+  sklearn.datasets -> load_breast_cancer
+Models:
+  sklearn.naive_bayes -> GaussianNB
+  sklearn.linear_model -> LogisticRegression
